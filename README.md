@@ -1,5 +1,7 @@
 # Viff
 
+This tool is a virtual diff tool which can do the perceptual testing.
+
 Find visual differences between web pages in different environments (developing, staging, production) and browsers.
 
 Join discussion in [![Gitter chat](https://badges.gitter.im/winsonwq/viff.png)](https://gitter.im/winsonwq/viff)
